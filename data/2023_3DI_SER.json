@@ -13,6 +13,13 @@
       "text": "2.html",
       "text_made_by": "Paolino Paperino",
       "questions": "2_questions.json"
+    },
+    {
+      "date": "26/09/2023",
+      "title": "Von Neumann",
+      "text": "3.html",
+      "text_made_by": "Matteo Farè",
+      "questions": "3_questions.json"
     }
   ]
 }  
